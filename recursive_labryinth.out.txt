@@ -1,0 +1,30 @@
+||||||||||||||||||||||||||||||||||||
+||        ||||||||||||     C||||||||
+|| |||||| ||||||||.||| |||||||||||||
+|| |||||| ||||||||.||| |||        ||
+|| |||||| ||||||||.||| ||| |||||| ||
+|| |              .||| ||| |||||| ||
+|| |||||||||||||||.||| ||| |||||| ||
+|| ||||||M|||.||||.         ||||| ||
+|| ||||||.|||.||||.|||||||||||||| ||
+||C|||   ..........|||||          ||
+||||||||||||||||||||||||||||||||||||
+Jerry moved South (19, 8)
+Jerry moved South (19, 7)
+Jerry moved South (19, 6)
+Jerry moved South (19, 5)
+Jerry moved South (19, 4)
+Jerry moved South (19, 3)
+Jerry moved South (19, 2)
+Jerry moved West (18, 2)
+Jerry moved West (17, 2)
+Jerry moved West (16, 2)
+Jerry moved West (15, 2)
+Jerry moved West (14, 2)
+Jerry moved West (13, 2)
+Jerry moved West (12, 2)
+Jerry moved West (11, 2)
+Jerry moved West (10, 2)
+Jerry moved North (10, 3)
+Jerry moved North (10, 4)
+Jerry found the cheese!
